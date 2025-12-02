@@ -1,9 +1,0 @@
-*.i64
-*.dmp
-*.id0
-*.id1
-*.id2
-*.nam
-*.til
-.gdb_history
-ctf-scripts/.vscode/
